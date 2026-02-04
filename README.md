@@ -19,7 +19,7 @@ Prerequisites:
 Python 3.x installed
 Steps:
 Clone the repository:
-git clone https://github.com/your-username/word-crossword-game.git
+git clone https://github.com/hanyamursaleen-spec/word-crossword-game.git
 Navigate to the project directory:
 cd word-crossword-game
 Run the program:
